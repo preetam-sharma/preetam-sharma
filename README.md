@@ -25,24 +25,34 @@ const thai = {
 ```
 #
 
-<img align="left" height="160px" width="160px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-golang-9294861-7578004.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-javascript-9294848-7577991.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-java-9294874-7578017.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-php-9294883-7578026.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-nodejs-9294859-7578002.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-typescript-9294849-7577992.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-dart-9294871-7578014.png?f=avif&h=200"></code>
 
-<br/>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-angularjs-9294851-7577994.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-react-9294867-7578010.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-vue-9294880-7578023.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-jquery-9294864-7578007.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-bootstrap-framework-logo-6563486-5453031.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-tailwind-9294852-7577995.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-html-9294875-7578018.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-css-9294881-7578024.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-npm-9294882-7578025.png?f=avif&h=200"></code>
 
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-amazon-web-services-8074662-6507782.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-git-9294878-7578021.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-mysql-9294870-7578013.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-mongo-db-9294853-7577996.png?f=avif&h=200"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-visual-studio-code-9294844-7578027.png?f=avif&h=200"></code>
 
-<br/>
-
+#
 
 <h4 align="center">
   
