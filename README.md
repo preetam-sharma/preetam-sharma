@@ -3,7 +3,7 @@
 <p><em>Software Enginner II at <a href="https://www.paytring.com">Paytring</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.codeperk.in">Codeperk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: preetam-sharma](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetamsharma/)](https://www.linkedin.com/in/preetamsharma/)
+[![Linkedin: preetamsharma](https://img.shields.io/badge/-preetamsharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetamsharma/)](https://www.linkedin.com/in/preetamsharma/)
 [![GitHub Preetam Sharma](https://img.shields.io/github/followers/preetam-sharma?label=follow&style=social)](https://github.com/preetam-sharma)
 
 
