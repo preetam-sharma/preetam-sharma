@@ -6,7 +6,7 @@
 [![Linkedin: preetamsharma](https://img.shields.io/badge/-Preetam%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetamsharma/)](https://www.linkedin.com/in/preetamsharma/)
 [![GitHub Preetam Sharma](https://img.shields.io/github/followers/preetam-sharma?label=follow&style=social)](https://github.com/preetam-sharma)
 
-
+<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
