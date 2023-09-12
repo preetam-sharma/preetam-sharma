@@ -1,12 +1,10 @@
 <h2> Hi, I'm Preetam Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="320">
 <p><br><br><em>Software Enginner II at <a href="https://www.paytring.com">Paytring</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.codeperk.in">Codeperk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></p><br>
 
 [![Linkedin: preetamsharma](https://img.shields.io/badge/-Preetam%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetamsharma/)](https://www.linkedin.com/in/preetamsharma/)
 [![GitHub Preetam Sharma](https://img.shields.io/github/followers/preetam-sharma?label=follow&style=social)](https://github.com/preetam-sharma)
-
-<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -27,7 +25,7 @@ const thai = {
 #
 
 <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-<br/>
+<br/><br/>
 
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-golang-9294861-7578004.png?f=avif&h=200"></code>
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-javascript-9294848-7577991.png?f=avif&h=200"></code>
@@ -52,7 +50,6 @@ const thai = {
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-mysql-9294870-7578013.png?f=avif&h=200"></code>
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-mongo-db-9294853-7577996.png?f=avif&h=200"></code>
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-visual-studio-code-9294844-7578027.png?f=avif&h=200"></code>
-
 #
 
 <h4 align="center">
