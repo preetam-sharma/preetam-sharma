@@ -11,8 +11,9 @@
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Golang, PHP, Java],
-  tools: [React, Redux, Node, Styled-Components, AWS, Docker],
+  code: [Javascript, Typescript, Golang, PHP, Java, Python, NodeJS, Dart, Angular, React, Vue, HTML, CSS],
+  tools: [Git, JQuery, Redux, Web Sockets, WebRTC, Styled-Components, Bootstrap, Tailwind AWS, Docker],
+  databases: [Mysql, Mongo DB, AWS RDS, AWS S3],
   architecture: ["microservices", "event-driven", "design system pattern"],
   contact: {
     mobile: "+91 7027 445 661",
