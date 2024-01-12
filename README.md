@@ -1,7 +1,7 @@
 <h2> Hi, I'm Preetam Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="320">
-<p><br><br><em>Software Enginner II at <a href="https://www.paytring.com">Paytring</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.codeperk.in">Codeperk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p><br>
+<img align='right' src="https://i.ibb.co/1bCzCyC/Untitled-design-1.png" width="170">
+<p><em>Software Enginner II at <a href="https://www.paytring.com">Paytring</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.codeperk.in">Codeperk</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 [![Linkedin: preetamsharma](https://img.shields.io/badge/-Preetam%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetamsharma/)](https://www.linkedin.com/in/preetamsharma/)
 [![GitHub Preetam Sharma](https://img.shields.io/github/followers/preetam-sharma?label=follow&style=social)](https://github.com/preetam-sharma)
@@ -24,9 +24,8 @@ const thai = {
 }
 ```
 #
-
 <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://i.ibb.co/wKZjvZH/github.gif"/>
-<br/>
+<br/><br/>
 
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-golang-9294861-7578004.png?f=avif&h=200"></code>
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-javascript-9294848-7577991.png?f=avif&h=200"></code>
@@ -53,24 +52,15 @@ const thai = {
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-visual-studio-code-9294844-7578027.png?f=avif&h=200"></code>
 #
 <br/>
-<h4 align="left">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                               @@
-@@     Programming isn't about what you know     @@
-@@      It's about what you can figure out       @@
-@@                                               @@
-@@        .----------------------------.         @@
-@@        | while( ! (succed=try() ) ) |         @@
-@@        '----------------------------'         @@
-@@                                               @@
-@@            Testing leads to failure           @@
-@@       and failure leads to understanding      @@
-@@                                               @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+<h4 align="center">
 
+```diff
+Programming isn't about what you know It's about what you can figure out
+.----------------------------.
+| while( ! (succed=try() ) ) |
+'----------------------------'
+Testing leads to failure and failure leads to understanding
+```
 </h4>  
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
@@ -78,7 +68,7 @@ const thai = {
 -----
 Credits: [Preetam Sharma](https://github.com/preetam-sharma)
 
-Last Edited on: 10/09/2023
+Last Edited on: 12/01/2024
 
 [//]: # (const anmol = {
     pronouns: "He" | "Him",
