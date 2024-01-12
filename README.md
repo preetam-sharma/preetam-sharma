@@ -25,7 +25,7 @@ const thai = {
 ```
 #
 <img align="left" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://i.ibb.co/wKZjvZH/github.gif"/>
-<br/><br/>
+<br/><br/><br/>
 
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-golang-9294861-7578004.png?f=avif&h=200"></code>
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/preview/free-javascript-9294848-7577991.png?f=avif&h=200"></code>
